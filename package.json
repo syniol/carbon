@@ -1,7 +1,7 @@
 {
   "name": "node-carbon",
   "version": "1.0.0",
-  "description": "API Helper for GraphQL and RESTful API",
+  "description": "API Helper for GraphQL server over HTTP/S and RESTful API",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": "http://github.com/syniol",

@@ -1,13 +1,16 @@
 # Carbon Library
 Ultra-light and Blazing fast GraphQL served over HTTP/S and legacy RESTful API for Node runtime.
 
+
 ## API Documentation
 This section is; divided into two main topics:
- 1. GraphQL
- 2. RESTful
+ * GraphQL
+ * RESTful
 
-## GraphQL _(over HTTP/S)_
+
+## GraphQL <small>(over HTTP/S)</small>
 blah blah... Will complete these sections next morning
+
 
 ## RESTful
 
