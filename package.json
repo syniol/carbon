@@ -1,0 +1,23 @@
+{
+  "name": "node-carbon",
+  "version": "1.0.0",
+  "description": "API Helper for GraphQL and RESTful API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": "http://github.com/syniol",
+  "author": "Hadi Tajallaei <hadi@syniol.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "rm -rf ./lib && tsc",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.6.1",
+    "mocha": "^9.0.3",
+    "prettier": "^2.3.2",
+    "ts-node": "^10.2.0",
+    "typescript": "^4.3.5"
+  }
+}
